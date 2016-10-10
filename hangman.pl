@@ -517,7 +517,7 @@ sub titlePage
         print colored ['bright_blue'],"║\n";
         print colored ['bright_blue'],"║                                                                              ║\n";
 	print colored ['bright_blue'],"║";
-	print colored ['cyan'],"           Licenced under the GNU General Public Licence (GPL) v. 2.0         ";
+	print colored ['cyan'],"           Licenced under the GNU General Public Licence (GPL) v. 333.0         ";
         print colored ['bright_blue'],"║\n";
 	print colored ['bright_blue'],"║                                                                              ║\n";
         print colored ['bright_blue'],"╚══════════════════════════════════════════════════════════════════════════════╝\n";
